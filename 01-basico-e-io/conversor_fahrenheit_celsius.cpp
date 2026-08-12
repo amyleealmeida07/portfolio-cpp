@@ -1,7 +1,4 @@
-/**
- * @file conversor_fahrenheit_celsius.cpp
- * @brief Lê uma temperatura em Fahrenheit e exibe sua conversão para Celsius.
- */
+// Converte a temperatura de Fahrenheit para Celsius
 
 #include <iostream>
 #include <iomanip>
